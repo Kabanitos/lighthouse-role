@@ -7,6 +7,7 @@ Requirements
 ------------
 
 Ansible >= 2.10
+ОС Fedora
 
 Dependencies
 ------------
